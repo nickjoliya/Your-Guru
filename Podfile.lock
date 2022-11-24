@@ -1,0 +1,20 @@
+PODS:
+  - CarbonKit (2.3.1)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - CarbonKit
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - CarbonKit
+    - SideMenu
+
+SPEC CHECKSUMS:
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 2b93f9f84c5484cd5497bc6d43c0fcf924f271f2
+
+COCOAPODS: 1.11.3
